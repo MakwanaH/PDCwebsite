@@ -17,7 +17,7 @@
     "less": "^3.13.1",
     "less-loader": "^6.1.2",
     "moment": "^2.27.0",
-    "mongoose": "^6.1.7",
+    "mongoose": "^6.4.6",
     "pizzly-js": "^0.2.7",
     "react": "^16.14.0",
     "react-accessible-accordion": "^4.0.0",
