@@ -16,7 +16,7 @@
     "html-react-parser": "^1.4.8",
     "less": "^3.13.1",
     "less-loader": "^6.1.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "mongoose": "^6.1.7",
     "pizzly-js": "^0.2.7",
     "react": "^16.14.0",
